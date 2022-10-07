@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 891bba99262183649adfe1f2076c5841, type: 3}
+  m_Name: Guns Database
+  m_EditorClassIdentifier: 
+  gun:
+  - gunDescription: lalalallalalallalalalaladefckjheswbkjfchbkrjhcfbesjhdcb kewjchwelalallalala
+    gunSprite: {fileID: 21300000, guid: 27e4774e241a76e44865f533318ff94b, type: 3}
+  - gunDescription: cfv sdfrbghtrdsbehetrb dfsdgbret5t
+    gunSprite: {fileID: 21300000, guid: 27e4774e241a76e44865f533318ff94b, type: 3}
+  - gunDescription: kakakakakkakakak
+    gunSprite: {fileID: 21300000, guid: 27e4774e241a76e44865f533318ff94b, type: 3}
